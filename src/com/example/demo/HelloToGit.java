@@ -8,6 +8,9 @@ public class HelloToGit {
 		
 		//change
 		System.out.println("Hello to Git");
+		
+		//change
+		System.out.println("Hello World");
 	}
 
 }
