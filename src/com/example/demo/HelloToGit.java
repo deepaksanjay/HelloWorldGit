@@ -7,7 +7,7 @@ public class HelloToGit {
 		System.out.println("This is my hello to Git!!!!!");
 		
 		//change
-		System.out.println("");
+		System.out.println("Hello");
 	}
 
 }
